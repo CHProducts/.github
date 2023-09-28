@@ -13,9 +13,10 @@ CatHouse Products(CH Products)はとくに仲のいい(多分)開発者を(勝�
 | Member | [抹茶ラテ](https://github.com/motilatte) | [@maccha_latte41](https://twitter.com/maccha_latte41) | 「抹茶Bot」 |
 | Member | [羽風](https://github.com/hafusun) | [@hafu_sun](https://twitter.com/hafu_sun) | 「Hafu-Bot」 |
 
-### CatHouse Productsでは、「圧倒的な使いやすさと対応の早さ」をモットーに開発を行っています。  
-  
-  
+CatHouse Productsでは、「圧倒的な使いやすさと対応の早さ」をモットーに開発を行っています。  
+### サポートサーバー
+
+https://discord.gg/pdTWZNghry
   
 ### English  Version↓
 
@@ -30,4 +31,7 @@ We are mainly working on bot development on Discord.
 | Member | [Motilatte](https://github.com/motilatte) | [@maccha_latte41](https://twitter.com/maccha_latte41) | 「Maccha Bot」 |
 | Member | [Hafu](https://github.com/hafusun) | [@hafu_sun](https://twitter.com/hafu_sun) | 「Hafu-Bot」 |
 
-### At CatHouse Products, our motto for development is "unparalleled ease of use and quick response". 
+At CatHouse Products, our motto for development is "unparalleled ease of use and quick response".   
+### Support Server
+
+https://discord.gg/pdTWZNghry
